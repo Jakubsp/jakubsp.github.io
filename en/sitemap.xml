@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://jakub-pentest.example.org/en/</loc>
+    <loc>https://jakubsp.github.io/en/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="https://jakub-pentest.example.org/"
+      href="https://jakubsp.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://jakub-pentest.example.org/en/"
+      href="https://jakubsp.github.io/en/"
     />
   </url>
   <url>
-    <loc>https://jakub-pentest.example.org/en/categories/</loc>
+    <loc>https://jakubsp.github.io/en/categories/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="https://jakub-pentest.example.org/categories/"
+      href="https://jakubsp.github.io/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://jakub-pentest.example.org/en/categories/"
+      href="https://jakubsp.github.io/en/categories/"
     />
   </url>
   <url>
-    <loc>https://jakub-pentest.example.org/en/tags/</loc>
+    <loc>https://jakubsp.github.io/en/tags/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="cs"
-      href="https://jakub-pentest.example.org/tags/"
+      href="https://jakubsp.github.io/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://jakub-pentest.example.org/en/tags/"
+      href="https://jakubsp.github.io/en/tags/"
     />
   </url>
 </urlset>

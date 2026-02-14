@@ -1,4 +1,4 @@
-baseURL = 'https://jakub-pentest.example.org/'
+baseURL = 'https://jakubsp.github.io/'
 languageCode = 'cs'
 defaultContentLanguage = 'cs'
 title = 'Jakub | Pentesting & Security'
