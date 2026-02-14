@@ -1,0 +1,16 @@
+baseURL = 'https://jakub-pentest.example.org/'
+languageCode = 'cs'
+defaultContentLanguage = 'cs'
+title = 'Jakub | Pentesting & Security'
+theme = 'blowfish'
+
+[params]
+    nickname = "Jakub"
+    description = "Portfolio zaměřené na pentesting a Offensive Security path na TryHackMe."
+    author = "Jakub"
+
+[menu]
+  [[menu.main]]
+    name = "O mně"
+    url = "/about/"
+    weight = 10
